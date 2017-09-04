@@ -7,8 +7,14 @@ router.get('/', function *(next) {
 });
 
 router.get('/chat', function *(next) {
-  yield this.render('index', {
+  yield this.render('chat', {
     title: 'Hello World foo!'
+  });
+});
+
+router.get('/login', function *(next) {
+  yield this.render('login', {
+    title: '登录'
   });
 });
 
