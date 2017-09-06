@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../NobodyChattingTool/.idea/NobodyChattingTool.iml" filepath="$PROJECT_DIR$/../NobodyChattingTool/.idea/NobodyChattingTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WechatProgram.iml" filepath="$PROJECT_DIR$/.idea/WechatProgram.iml" />
     </modules>
   </component>
 </project>
